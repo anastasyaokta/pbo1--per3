@@ -14,5 +14,6 @@ public class OperasiString {
         System.out.println(kota.toLowerCase());
         System.out.println(kota.substring(5,9));
         System.out.println(kota.substring(1,4));
+
     }
 }
