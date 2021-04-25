@@ -6,12 +6,12 @@ public class IfElse {
         double uangDiDompet = 35000;
 
         if (uangDiDompet<totalBelanja){
-            System.out.println("Uang kurang, Kurangi Jajan Anda");
+            System.out.println("Uang kurang, Jajan dikurangi lah gais");
             }else if(uangDiDompet>totalBelanja) {
-            double angsul = uangDiDompet - totalBelanja;
-            System.out.println("Uang cukup, Angsul : " + angsul);
+            double Kembalian = uangDiDompet - totalBelanja;
+            System.out.println("Uang cukup, Kembalian : " + Kembalian;
         }else{
-            System.out.println("Uang pas.. UwU..");
+            System.out.println("Uang Pas.. Thankyou Epribadeehh..");
         }
     }
 }
