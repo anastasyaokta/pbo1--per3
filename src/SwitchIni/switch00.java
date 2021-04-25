@@ -13,7 +13,7 @@ public class switch00 {
                 System.out.println("Mhs   : \"Siap pak,terimakasih, ini berkat bantuan bapak juga\"");
                 break;
             case 'C':
-                System.out.println("Mhs   : \"Mohon Maaf Ibu, apakah hari ini ibu ada sibuk?\"");
+                System.out.println("Mhs   : \"Mohon Maaf Ibu, apakah hari ini ibu ada kesibukan?\"");
                 System.out.println("Dosen : \"ouhh ... TIdak , saya hari ini Free\"");
                 break;
             default:
